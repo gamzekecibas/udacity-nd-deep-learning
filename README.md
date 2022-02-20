@@ -1,5 +1,5 @@
 # udacity-nd-deep-learning
-Project &amp; practices from Udacity Deep Learning Nanodegree programhttps://www.udacity.com/course/deep-learning-nanodegree--nd101
+Project &amp; practices from [Udacity Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101)  
 
 - **PRE NOTEBOOKS:**  
 Practices during the course are here.  
