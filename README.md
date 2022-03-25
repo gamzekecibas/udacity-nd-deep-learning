@@ -31,7 +31,11 @@ Main projects in the course are here.
   <img width="600" height="250" src="https://user-images.githubusercontent.com/60810553/160202546-792f6140-5da4-4691-a345-83f3e7c25867.png">
 </p>
 
-   The CNN is built by **three Conv2d layers**, **MaxPool2d**, **two fully connected layers**, **view (flatten layer)** & **batch_norm2d and batch_norm1d**. Activation function is selected as **leaky ReLU** with -0.2 slope. **Dropout** is preferred as regularizer with 0.3 probability. Stochastic Gradient Descent (SGD) is used as optimizer where learning rate is 1e-2. Loss is calculated by cross entropy. Initially, **epochs** is equal to 20, however it is too low to predict successfully. Therefore, **epochs** is adjusted as 100. 
+   The CNN is built by **three Conv2d layers**, **MaxPool2d**, **two fully connected layers**, **view (flatten layer)** & **batch_norm2d and batch_norm1d**.    Activation function is selected as **leaky ReLU** with -0.2 slope.  
+**Dropout** is preferred as regularizer with 0.3 probability.    
+**Stochastic Gradient Descent (SGD)** is used as optimizer where learning rate is 1e-2.  
+Loss is calculated by **cross entropy**.    
+Initially, **epochs** is equal to 20, however it is too low to predict successfully. Therefore, **epochs** is adjusted as 100.   
 <p align="center">
     <b>You can check porject report for detais...</b>
 </p>
