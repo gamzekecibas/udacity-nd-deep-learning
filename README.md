@@ -10,3 +10,4 @@ Main projects in the course are here.
   - [01-neural-network](https://github.com/gamzekecibas/udacity-nd-deep-learning/tree/main/PROJECTS/01-neural-network)  
   - [02-cnn-landmark](https://github.com/gamzekecibas/udacity-nd-deep-learning/tree/main/PROJECTS/02-cnn-landmark)  
   - [03-rnn-script](https://github.com/gamzekecibas/udacity-nd-deep-learning/tree/main/PROJECTS/03-rnn-script)  
+  - [04-gan-generate-face](https://github.com/gamzekecibas/udacity-nd-deep-learning/tree/main/PROJECTS/04-gan-generate-face)  
